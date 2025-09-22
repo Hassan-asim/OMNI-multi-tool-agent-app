@@ -1,0 +1,30 @@
+# TEAM
+
+    SUFI HASSAN ASIM
+    Founder and CEO of DEVise Solutions
+    Contact: sufi@devisesolutions.com
+    Twitter: @sufihassanasim
+    Location: Pakistan
+
+# THANKS
+
+    Thanks to all the developers and contributors who made this project possible.
+
+# SITE
+
+    Last update: 2024/01/21
+    Language: English
+    Doctype: HTML5
+    IDE: Visual Studio Code
+    Framework: React.js
+    Database: Firebase Firestore
+    Hosting: Vercel
+
+# TECHNOLOGY
+
+    Frontend: React.js, Material-UI, Framer Motion
+    Backend: Firebase, Firestore
+    Authentication: Firebase Auth
+    State Management: Zustand
+    Deployment: Vercel
+    Version Control: Git

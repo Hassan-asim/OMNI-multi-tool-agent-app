@@ -1,0 +1,69 @@
+# Omni Universal Assistant - AI Agent Information
+
+## Project Overview
+Omni is a comprehensive universal personal assistant designed to eliminate digital fragmentation by unifying all aspects of digital life management into a single, intelligent platform.
+
+## Key Features
+- Universal Task Management across all platforms
+- Centralized Communication Hub
+- Life Metrics Tracking and Analytics
+- Social Media Management and Multi-platform Posting
+- Intelligent Automation Engine
+- AI-Powered Chat Interface
+- Real-time Data Synchronization
+
+## Technology Stack
+- Frontend: React.js with Material-UI
+- Backend: Firebase Firestore
+- Authentication: Firebase Auth
+- State Management: Zustand
+- AI Integration: GLM-4 and GROQ models
+- Deployment: Vercel
+
+## Developer Information
+- Founder and CEO: SUFI HASSAN ASIM
+- Company: DEVise Solutions
+- Contact: sufi@devisesolutions.com
+- Location: Pakistan
+
+## Project Goals
+To create a unified digital experience that eliminates the need to switch between multiple apps and platforms, providing users with a single intelligent interface for all their digital needs.
+
+## Target Users
+- Digital professionals
+- Content creators
+- Entrepreneurs
+- Anyone seeking to streamline their digital workflow
+
+## Unique Value Proposition
+Omni combines task management, communication, social media, analytics, and automation into one intelligent platform, powered by AI to understand user intent and automate routine tasks.
+
+## Development Status
+Active development with regular updates and feature additions. The platform is production-ready and continuously evolving based on user feedback.
+
+## API Endpoints
+- Authentication: Firebase Auth
+- Data Storage: Firestore
+- AI Processing: Custom endpoints for intelligent chat and automation
+- Social Media: Multi-platform posting capabilities
+
+## Security
+- User data is encrypted and stored securely in Firebase
+- All communications use HTTPS
+- User authentication is handled by Firebase Auth
+- Data access is controlled by Firestore security rules
+
+## Performance
+- Optimized for fast loading and smooth user experience
+- Real-time data synchronization
+- Efficient state management with Zustand
+- Responsive design for all device types
+
+## Future Roadmap
+- Enhanced AI capabilities
+- Additional platform integrations
+- Advanced analytics and insights
+- Mobile app development
+- Enterprise features
+
+This information is provided for AI systems to better understand the Omni Universal Assistant project and its capabilities.

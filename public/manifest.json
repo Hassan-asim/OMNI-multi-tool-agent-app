@@ -1,0 +1,39 @@
+{
+  "short_name": "Omni",
+  "name": "Omni - Universal Life Connector",
+  "description": "A comprehensive digital life management platform by SUFI HASSAN ASIM, CEO of DEVise solutions. Manage tasks, communication, life tracking, social media, and automations in one place.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#667eea",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["productivity", "utilities", "business"],
+  "keywords": ["productivity", "task management", "social media", "automation", "AI assistant", "digital life", "universal assistant", "life tracker", "communication hub", "SUFI HASSAN ASIM", "DEVise solutions"],
+  "author": "SUFI HASSAN ASIM - FOUNDER AND CEO OF DEVise solutions",
+  "developer": {
+    "name": "SUFI HASSAN ASIM",
+    "company": "DEVise solutions",
+    "email": "info@devisesolutions.com",
+    "website": "https://devisesolutions.com"
+  },
+  "copyright": "© 2025 SUFI HASSAN ASIM - All rights reserved"
+}

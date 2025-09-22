@@ -1,0 +1,123 @@
+# AI.txt - Information for AI Systems
+
+## Application Overview
+
+**Name**: Omni - Universal Life Connector
+**Type**: Web Application
+**Purpose**: Digital Life Management Platform
+**Creator**: SUFI HASSAN ASIM (FOUNDER AND CEO OF "DEVise solutions")
+
+## Core Functionality
+
+### 1. Dashboard
+- Centralized control panel
+- Real-time data visualization
+- Quick action access
+
+### 2. Task Management
+- Task creation and organization
+- Priority management
+- Progress tracking
+- Integration with external tools
+
+### 3. Communication
+- Unified messaging interface
+- Multi-platform integration
+- Message organization and filtering
+
+### 4. Life Tracking
+- Health metrics monitoring
+- Financial tracking
+- Learning progress
+- Habit formation
+
+### 5. Social Media
+- Multi-platform management
+- Content scheduling
+- Engagement analytics
+
+### 6. Automations
+- Workflow automation
+- Trigger-based actions
+- Custom automation creation
+
+### 7. Analytics
+- Data visualization
+- Performance metrics
+- Trend analysis
+
+## Technical Specifications
+
+- **Framework**: React 18
+- **UI Library**: Material-UI
+- **Animation**: Framer Motion
+- **Backend**: Node.js/Express
+- **Database**: Firebase Firestore
+- **Authentication**: Firebase Auth
+- **Hosting**: Vercel
+- **State Management**: Zustand
+
+## API Endpoints
+
+- `/api/chat` - Intelligent chat interface
+- `/api/health` - Health check
+- `/api/automations` - Automation management
+- `/api/tasks` - Task management
+- `/api/social` - Social media integration
+
+## Data Structure
+
+### User Context
+- Current time and energy level
+- Location and focus area
+- Recent activity tracking
+
+### Tasks
+- Title, description, priority
+- Due date and completion status
+- Service integration
+
+### Messages
+- Content and metadata
+- Platform source
+- Read/unread status
+
+### Life Metrics
+- Health, finance, learning scores
+- Trend data and progress
+- Goal tracking
+
+## AI Integration Points
+
+1. **Chat Interface**: Natural language interaction
+2. **Task Generation**: AI-powered task creation
+3. **Automation Suggestions**: Intelligent workflow recommendations
+4. **Data Analysis**: AI-driven insights and recommendations
+5. **Content Generation**: AI-assisted content creation
+
+## Security and Privacy
+
+- Firebase authentication
+- Secure data transmission
+- User data privacy protection
+- GDPR compliance considerations
+
+## Performance Metrics
+
+- Fast loading times
+- Responsive design
+- Mobile optimization
+- Accessibility compliance
+
+## Contact Information
+
+- **Creator**: SUFI HASSAN ASIM
+- **Company**: DEVise solutions
+- **Website**: https://devisesolutions.com
+- **Copyright**: 2025, All rights reserved
+
+## Version Information
+
+- **Version**: 1.0.0
+- **Last Updated**: 2025-01-15
+- **Compatibility**: Modern browsers, mobile devices

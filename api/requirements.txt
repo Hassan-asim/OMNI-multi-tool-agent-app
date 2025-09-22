@@ -1,0 +1,12 @@
+# Core dependencies for Vercel API functions
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# AI Model dependencies
+zhipuai>=2.0.1
+groq>=0.4.1
+
+# Optional dependencies (will be mocked if not available)
+flask>=3.0.0
+flask-cors>=4.0.0
+schedule>=1.2.0
