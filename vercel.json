@@ -25,10 +25,5 @@
   ],
   "env": {
     "REACT_APP_API_URL": "/api"
-  },
-  "functions": {
-    "api/**/*.py": {
-      "runtime": "python3.9"
-    }
   }
 }
